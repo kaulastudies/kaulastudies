@@ -80,11 +80,14 @@ The software repositories and engineering projects presented here are **my indep
 
 ## Support Open Technical Work
 
-If this work is useful to you, you can support my independent public engineering and applied research through GitHub Sponsors:
+If this work is useful to you, you can support my independent public engineering and applied research through either route:
 
-https://github.com/sponsors/kaulastudies
+- GitHub Sponsors: https://github.com/sponsors/kaulastudies
+- Direct support via PayPal: https://www.paypal.com/paypalme/malayanur92
 
-Sponsorship supports public development, evaluation infrastructure, testing, documentation, hosting and maintenance. It does not automatically include consulting, custom development, confidential data access or exclusive IP rights.
+Support helps fund public development, evaluation infrastructure, testing, documentation, hosting and maintenance.
+
+Funding does not automatically grant private repository access, contributor permissions, consulting, custom development, confidential data access or exclusive IP rights.
 
 ## Connect
 
