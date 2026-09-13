@@ -48,21 +48,23 @@ A collaborative Reddit-native application built with Devvit, persistent shared s
 
 https://github.com/kaulastudies/thread-zero
 
-## In Development
-
-### ClaimSetu CareOps
-
-A healthcare operations and claims platform developed from real hospital workflow problems, including claims and revenue-cycle operations, documentation, communication, continuity and workflow automation.
-
-A public-safe technical presentation is being prepared separately from production and sensitive healthcare systems.
+## New Public Work
 
 ### AI Evaluation Lab
 
-An independent project focused on reproducible infrastructure for evaluating AI systems and agents.
+**Runnable Alpha v0.1:** reproducible infrastructure for evaluating AI systems and agents through versioned tasks, model runs, independent review, deterministic verification, disagreement/adjudication, accepted evaluation records and regression testing.
 
-Task -> Evidence -> Model Run -> Independent Review -> Verification -> Adjudication -> Evaluation Record -> Regression Testing
+https://github.com/kaulastudies/ai-evaluation-lab
 
-The aim is to build practical evaluation infrastructure around evidence, reproducibility, failure analysis and accountable human judgment rather than treating evaluation as a final model score.
+The public Alpha uses synthetic examples and includes automated tests, CI and generated evaluation records.
+
+### ClaimSetu CareOps
+
+A public-safe engineering dossier for healthcare operations, claims, care continuity and exception-driven hospital workflows developed from real operational problems.
+
+https://github.com/kaulastudies/claimsetu
+
+The public repository intentionally excludes patient data, hospital-confidential material, production credentials and sensitive deployment details.
 
 ## How I Work
 
