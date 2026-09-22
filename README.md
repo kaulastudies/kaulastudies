@@ -52,11 +52,11 @@ https://github.com/kaulastudies/thread-zero
 
 ### AI Evaluation Lab
 
-**Runnable Alpha v0.1:** reproducible infrastructure for evaluating AI systems and agents through versioned tasks, model runs, independent review, deterministic verification, disagreement/adjudication, accepted evaluation records and regression testing.
+**Working Alpha / Repository Agent Reliability Program:** provider-neutral infrastructure for evaluating AI systems and agents through versioned task contracts, controlled execution, independent verification, verifier testing, canonical evidence records, source-exact replay and regression analysis.
 
 https://github.com/kaulastudies/ai-evaluation-lab
 
-The public Alpha uses synthetic examples and includes automated tests, CI and generated evaluation records.
+Current public RARB evidence includes 51 promoted live attempts across five verifier-qualified repository tasks, plus a preregistered 30-attempt cross-model replication on one frozen task with source-exact no-model replay. Claims are intentionally bounded to the committed tasks and preserved evidence.
 
 ### ClaimSetu CareOps
 
@@ -65,6 +65,22 @@ A public-safe engineering dossier for healthcare operations, claims, care contin
 https://github.com/kaulastudies/claimsetu
 
 The public repository intentionally excludes patient data, hospital-confidential material, production credentials and sensitive deployment details.
+
+## Open Source Contributions
+
+I contribute targeted fixes, tests and maintenance work to upstream open-source projects in developer infrastructure and AI evaluation.
+
+### Accepted upstream
+
+- **Backstage Community Plugins / Periskop** - migrated the workspace to Jest 30. Maintainer-approved and merged into `main`: https://github.com/backstage/community-plugins/pull/10964
+
+### Current upstream work
+
+- **Kubernetes SIGs Headlamp** - stale-response protection and regression coverage for KubeObjectGlance: https://github.com/kubernetes-sigs/headlamp/pull/7659
+- **MLCommons ModelBench** - dynamic SUT listing for OpenAI and Together dedicated: https://github.com/mlcommons/modelbench/pull/1650
+- **MLCommons ModelBench** - Mistral native model-ID formatting fix: https://github.com/mlcommons/modelbench/pull/1661
+- **MLCommons ModelBench** - Anthropic refusal and thinking-readiness handling: https://github.com/mlcommons/modelbench/pull/1662
+- **OpenFeature Operator** - regression coverage for the pod annotation index path: https://github.com/open-feature/open-feature-operator/pull/859
 
 ## How I Work
 
