@@ -56,7 +56,13 @@ https://github.com/kaulastudies/thread-zero
 
 https://github.com/kaulastudies/ai-evaluation-lab
 
-Current public RARB evidence includes 51 promoted live attempts across five verifier-qualified repository tasks, plus a preregistered 30-attempt cross-model replication on one frozen task with source-exact no-model replay. Claims are intentionally bounded to the committed tasks and preserved evidence.
+Current public RARB evidence includes 51 promoted live attempts across five verifier-qualified repository tasks, plus a preregistered 30-attempt cross-model replication on one frozen task with source-exact no-model replay.
+
+Phase 13 also includes a merged IBM Bob 2.2.0 AP-001 agent pilot: preregistered execution, frozen candidate, deterministic independent verification, source-exact replay and promoted evidence. This is an evaluation of the agent/tool through the Lab methodology, not an IBM partnership or endorsement.
+
+Technical report: [Verifying the Verifier — Evidence-Driven Evaluation for Repository Agents](https://github.com/kaulastudies/ai-evaluation-lab/blob/main/publications/verifying-the-verifier-2026.md)
+
+Claims are intentionally bounded to committed tasks and preserved evidence.
 
 ### ClaimSetu CareOps
 
@@ -76,12 +82,9 @@ I contribute targeted fixes, tests and maintenance work to upstream open-source 
 
 ### Current upstream work
 
-- **Kubernetes SIGs Headlamp** - stale-response protection and regression coverage for KubeObjectGlance: https://github.com/kubernetes-sigs/headlamp/pull/7659
-- **MLCommons ModelBench** - dynamic SUT listing for OpenAI and Together dedicated: https://github.com/mlcommons/modelbench/pull/1650
-- **MLCommons ModelBench** - Mistral native model-ID formatting fix: https://github.com/mlcommons/modelbench/pull/1661
-- **MLCommons ModelBench** - Anthropic refusal and thinking-readiness handling: https://github.com/mlcommons/modelbench/pull/1662
-- **OpenFeature Operator** - regression coverage for the pod annotation index path: https://github.com/open-feature/open-feature-operator/pull/859
-
+- **Kubernetes SIGs Headlamp** - stale-response protection and regression coverage for KubeObjectGlance; review feedback addressed and awaiting maintainer approval: https://github.com/kubernetes-sigs/headlamp/pull/7659
+- **OpenFeature Operator** - regression coverage for the Pod annotation index path; refreshed against current upstream: https://github.com/open-feature/open-feature-operator/pull/859
+- **MLCommons ModelBench** - dynamic SUT discovery for OpenAI and Together dedicated; refreshed against current upstream: https://github.com/mlcommons/modelbench/pull/1650
 ## How I Work
 
 I care about what happens after a prototype works: failure modes, edge cases, security boundaries, evaluation, auditability, maintainability and whether a system can survive real operational use.
@@ -108,5 +111,7 @@ Support helps fund public development, evaluation infrastructure, testing, docum
 Funding does not automatically grant private repository access, contributor permissions, consulting, custom development, confidential data access or exclusive IP rights.
 
 ## Connect
+
+ORCID: https://orcid.org/0009-0008-0189-2166
 
 I am interested in serious work around AI evaluation, agent systems, healthcare technology, developer infrastructure, automation and applied AI research.
