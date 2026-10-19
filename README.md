@@ -74,6 +74,10 @@ The public repository intentionally excludes patient data, hospital-confidential
 
 ## Verified Open-Source Contributions
 
+[![Backstage Community Plugins merged PR](https://img.shields.io/badge/Backstage%20Community%20Plugins-Merged%20PR-2ea44f)](https://github.com/backstage/community-plugins/pull/10964)
+
+*Proof-linked contribution badge (self-displayed), not an official Backstage organization membership credential.*
+
 **Independently accepted upstream:** [Backstage Community Plugins / Periskop — Jest 30 migration](https://github.com/backstage/community-plugins/pull/10964), maintainer reviewed, approved and merged.
 
 **Qiskit Ecosystem nomination, under review:** [Quantum Agent Gate — PR #1427](https://github.com/Qiskit/ecosystem/pull/1427). Automated submission validation passed; this is **not** yet ecosystem approval, organization membership, or endorsement.
