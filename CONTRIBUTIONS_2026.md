@@ -63,3 +63,15 @@
 - Personal-repository merges are legitimate GitHub activity, but do not prove external maintainer recognition.
 - GitHub Achievements and organization avatars are conferred by the platform, not by adding images to a README.
 - Official Qiskit Ecosystem inclusion remains pending until PR #1427 merges.
+
+## Earlier GitHub Achievement exercise
+
+These links are the **original workflow-practice records**, not upstream organization endorsements:
+
+- [Workflow verification issue #1](https://github.com/kaulastudies/kaula-git-workflow-lab/issues/1) — issue created and closed (the GitHub *Quickdraw* exercise).
+- [Workflow documentation PR #2](https://github.com/kaulastudies/kaula-git-workflow-lab/pull/2) — merged.
+- [Contributing guidelines PR #3](https://github.com/kaulastudies/kaula-git-workflow-lab/pull/3) — merged.
+
+The two personal-repository merges were used for the *Pull Shark* and merge-without-review (*YOLO*) exercise. Only GitHub's Achievements section can establish whether the platform actually awarded those achievements; we do not claim an award merely because a script was run.
+
+The stronger evidence for external recognition remains the [maintainer-merged Backstage contribution](https://github.com/backstage/community-plugins/pull/10964).
