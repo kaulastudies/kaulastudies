@@ -56,7 +56,7 @@ https://github.com/kaulastudies/thread-zero
 
 https://github.com/kaulastudies/ai-evaluation-lab
 
-Current public RARB evidence includes 51 promoted live attempts across five verifier-qualified repository tasks, plus a preregistered 30-attempt cross-model replication on one frozen task with source-exact no-model replay.
+Current public RARB evidence includes 52 committed live attempts across five verifier-qualified repository tasks, plus a preregistered 30-attempt cross-model replication on one frozen task with source-exact no-model replay.
 
 Phase 13 also includes a merged IBM Bob 2.2.0 AP-001 agent pilot: preregistered execution, frozen candidate, deterministic independent verification, source-exact replay and promoted evidence. This is an evaluation of the agent/tool through the Lab methodology, not an IBM partnership or endorsement.
 
@@ -72,19 +72,19 @@ https://github.com/kaulastudies/claimsetu
 
 The public repository intentionally excludes patient data, hospital-confidential material, production credentials and sensitive deployment details.
 
-## Open Source Contributions
+## Verified Open-Source Contributions
 
-I contribute targeted fixes, tests and maintenance work to upstream open-source projects in developer infrastructure and AI evaluation.
+**Independently accepted upstream:** [Backstage Community Plugins / Periskop — Jest 30 migration](https://github.com/backstage/community-plugins/pull/10964), maintainer reviewed, approved and merged.
 
-### Accepted upstream
+**Qiskit Ecosystem nomination, under review:** [Quantum Agent Gate — PR #1427](https://github.com/Qiskit/ecosystem/pull/1427). Automated submission validation passed; this is **not** yet ecosystem approval, organization membership, or endorsement.
 
-- **Backstage Community Plugins / Periskop** - migrated the workspace to Jest 30. Maintainer-approved and merged into `main`: https://github.com/backstage/community-plugins/pull/10964
+**Other upstream contributions awaiting review:**
+- [Kubernetes SIG Headlamp — async stale-response regression protections](https://github.com/kubernetes-sigs/headlamp/pull/7659) — open.
+- [OpenFeature Operator — Pod annotation index regression test](https://github.com/open-feature/open-feature-operator/pull/859) — open.
+- [MLCommons ModelBench — dynamic SUT discovery](https://github.com/mlcommons/modelbench/pull/1650) — open.
 
-### Current upstream work
+**[Public GitHub PR audit: 38 pull requests with individual source links](CONTRIBUTIONS_2026.md)** (snapshot: 2026-10-19). This is an audit of activity, not an organizational affiliation claim.
 
-- **Kubernetes SIGs Headlamp** - stale-response protection and regression coverage for KubeObjectGlance; review feedback addressed and awaiting maintainer approval: https://github.com/kubernetes-sigs/headlamp/pull/7659
-- **OpenFeature Operator** - regression coverage for the Pod annotation index path; refreshed against current upstream: https://github.com/open-feature/open-feature-operator/pull/859
-- **MLCommons ModelBench** - dynamic SUT discovery for OpenAI and Together dedicated; refreshed against current upstream: https://github.com/mlcommons/modelbench/pull/1650
 ## How I Work
 
 I care about what happens after a prototype works: failure modes, edge cases, security boundaries, evaluation, auditability, maintainability and whether a system can survive real operational use.
