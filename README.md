@@ -80,7 +80,9 @@ The public repository intentionally excludes patient data, hospital-confidential
 
 **Independently accepted upstream:** [Backstage Community Plugins / Periskop — Jest 30 migration](https://github.com/backstage/community-plugins/pull/10964), maintainer reviewed, approved and merged.
 
-**Qiskit Ecosystem nomination, under review:** [Quantum Agent Gate — PR #1427](https://github.com/Qiskit/ecosystem/pull/1427). Automated submission validation passed; this is **not** yet ecosystem approval, organization membership, or endorsement.
+[![Qiskit Ecosystem](https://qisk.it/e-7fac1a8e)](https://qisk.it/e)
+
+**Qiskit Ecosystem member project:** [Quantum Agent Gate](https://qiskit.github.io/ecosystem/p/7fac1a8e/) — an experimental Qiskit 2.x integration for checking agent execution permissions and resource limits. [Maintainer-approved and merged upstream as PR #1427](https://github.com/Qiskit/ecosystem/pull/1427) on November 1, 2026 (UTC). Membership applies to Quantum Agent Gate; it does not imply IBM or Qiskit endorsement, security certification, or membership for all AI Evaluation Lab projects.
 
 **Other upstream contributions awaiting review:**
 - [Kubernetes SIG Headlamp — async stale-response regression protections](https://github.com/kubernetes-sigs/headlamp/pull/7659) — open.
