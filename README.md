@@ -8,6 +8,17 @@ I build practical software around problems where AI, real-world operations and d
 
 My current work spans AI and agent systems, evaluation and reliability, healthcare workflows, local and hybrid inference, automation, privacy-aware systems and verifiable digital infrastructure.
 
+## Start Here
+
+If you're evaluating coding agents or working on reliable AI tools, these are good places to begin:
+
+- **[AI Evaluation Lab](https://github.com/kaulastudies/ai-evaluation-lab)** — reproducible agent evaluations, independent verifiers, source-exact replay and published evidence.
+- **[RARB evidence and demonstration](https://github.com/kaulastudies/ai-evaluation-lab/tree/main/programs/repository-agent-reliability)** — inspect what an agent changed and whether the result actually passed verification.
+- **[Quantum Agent Gate](https://github.com/kaulastudies/ai-evaluation-lab/tree/main/integrations/quantum-agent-gate)** — experimental local Qiskit 2.x checks for execution permissions and resource limits.
+- **[Research note: Verifying the Verifier](https://github.com/kaulastudies/ai-evaluation-lab/blob/main/publications/verifying-the-verifier-2026.md)** — methodology, evidence and limitations.
+
+I welcome technical feedback, reproducible bug reports and contributions. If a repository helps your work, starring it makes the project easier for other developers to discover.
+
 ## Current Focus
 
 - **AI Evaluation & Reliability** - reproducible evaluations, model and agent testing, evidence-based verification, failure analysis, disagreement resolution and regression testing.
