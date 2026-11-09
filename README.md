@@ -74,6 +74,10 @@ The public repository intentionally excludes patient data, hospital-confidential
 
 ## Verified Open-Source Contributions
 
+[![MLCommons GitHub organization member](https://img.shields.io/badge/MLCommons-GitHub_org_member-0066b3)](https://github.com/mlcommons/endpoints-submission-cli/pull/170)
+
+**MLCommons GitHub organization member**, contributing to ModelBench and Endpoints submission validation. GitHub records the membership status on [PR #170](https://github.com/mlcommons/endpoints-submission-cli/pull/170).
+
 [![Backstage Community Plugins merged PR](https://img.shields.io/badge/Backstage%20Community%20Plugins-Merged%20PR-2ea44f)](https://github.com/backstage/community-plugins/pull/10964)
 
 *Proof-linked contribution badge (self-displayed), not an official Backstage organization membership credential.*
@@ -88,6 +92,9 @@ The public repository intentionally excludes patient data, hospital-confidential
 - [Kubernetes SIG Headlamp — async stale-response regression protections](https://github.com/kubernetes-sigs/headlamp/pull/7659) — open.
 - [OpenFeature Operator — Pod annotation index regression test](https://github.com/open-feature/open-feature-operator/pull/859) — open.
 - [MLCommons ModelBench — dynamic SUT discovery](https://github.com/mlcommons/modelbench/pull/1650) — open.
+- [MLCommons Endpoints — reject incomplete accuracy aggregates](https://github.com/mlcommons/endpoints-submission-cli/pull/170) — open; all six CI and CLA checks passed.
+- [Google ADK Python — strict unmocked-tool simulation](https://github.com/google/adk-python/pull/8042) — draft, awaiting API review.
+- [Google ADK documentation — strict simulation guide](https://github.com/google/adk-docs/pull/2580) — draft, paired with the implementation.
 
 **[Public GitHub PR audit: 38 pull requests with individual source links](CONTRIBUTIONS_2026.md)** (snapshot: 2026-10-19). This is an audit of activity, not an organizational affiliation claim.
 
