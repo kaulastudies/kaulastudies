@@ -64,6 +64,13 @@ Technical report: [Verifying the Verifier — Evidence-Driven Evaluation for Rep
 
 Claims are intentionally bounded to committed tasks and preserved evidence.
 
+Hardening in progress: [PR #34](https://github.com/kaulastudies/ai-evaluation-lab/pull/34) addresses 25 review findings with a constrained Linux worker, a trusted controller and authenticated replay. It is open with all checks passing. A follow-up security scan is required before the earlier findings are treated as closed.
+
+### Recent hackathon builds
+
+- **ProofPay**, built for the PayPal hackathon and submitted on 8 November 2026.
+- **ReceiptOps**, built for the Vultr hackathon and deployed on Vultr infrastructure.
+
 ### ClaimSetu CareOps
 
 A public-safe engineering dossier for healthcare operations, claims, care continuity and exception-driven hospital workflows developed from real operational problems.
@@ -71,6 +78,24 @@ A public-safe engineering dossier for healthcare operations, claims, care contin
 https://github.com/kaulastudies/claimsetu
 
 The public repository intentionally excludes patient data, hospital-confidential material, production credentials and sensitive deployment details.
+
+## Then and Now
+
+| Area | Mid-September 2026 | 10 November 2026 |
+|---|---|---|
+| Agents evaluated | Model replication on one frozen task | Adds the IBM Bob 2.2.0 agent pilot (merged), run through the same methodology |
+| Verification | Verifier qualification and mutation testing | Adds security hardening of the execution path ([PR #34](https://github.com/kaulastudies/ai-evaluation-lab/pull/34), in review) |
+| Written account | Repository documentation | Technical report, Verifying the Verifier |
+| Related contributions | MLCommons and Backstage | Adds Qiskit Ecosystem membership (merged 1 November) and the TIP reference demo (under review) |
+| Commercial | Not defined | Fixed-scope founding pilot defined; first pilot in preparation |
+
+No paid customers yet. Claims stay bounded to committed tasks and preserved evidence.
+
+## Next Focus
+
+1. Review and merge the Lab hardening work, then run a follow-up security scan.
+2. Run the first fixed-scope pilot with a team that builds or deploys coding agents, targeted for December 2026.
+3. Test agent-authority records on a sandbox workflow, starting from the TIP reference demo. No endorsement is implied.
 
 ## Verified Open-Source Contributions
 
@@ -94,6 +119,7 @@ The public repository intentionally excludes patient data, hospital-confidential
 - [MLCommons ModelBench — dynamic SUT discovery](https://github.com/mlcommons/modelbench/pull/1650) — open.
 - [MLCommons Endpoints — reject incomplete accuracy aggregates](https://github.com/mlcommons/endpoints-submission-cli/pull/170) — open; hosted tests, lint, docs and CLA checks passed.
 - [MLCommons Endpoints — validate complete dataset passes](https://github.com/mlcommons/endpoints-submission-cli/pull/171) — draft under the repository's one-ready-PR limit; hosted tests, lint, docs and CLA checks passed.
+- [The AI Lab TIP Protocol, agentic provenance reference demo](https://github.com/theailaborg/tip-protocol/pull/383) — under review. A reference demo for signed agent actions, built as a starting point for testing agent-authority records.
 - [Google ADK Python — strict unmocked-tool simulation](https://github.com/google/adk-python/pull/8042) — draft, awaiting API review.
 - [Google ADK documentation — strict simulation guide](https://github.com/google/adk-docs/pull/2580) — draft, paired with the implementation.
 
