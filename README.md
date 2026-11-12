@@ -125,6 +125,14 @@ No paid customers yet. Claims stay bounded to committed tasks and preserved evid
 
 **[Public GitHub PR audit: 38 pull requests with individual source links](CONTRIBUTIONS_2026.md)** (snapshot: 2026-10-19). This is an audit of activity, not an organizational affiliation claim.
 
+## Community Learning
+
+<a href="https://cloud.meshery.io/user/de4901de-78e8-4404-b732-82e61cf607f2?tab=badges&badge=first-design">
+  <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="Meshery First Design badge - Design Pioneer" width="150" />
+</a>
+
+**Meshery First Design badge** — awarded on 12 November 2026 after creating a Kubernetes web-service practice design with a Namespace, Deployment and Service in Meshery Playground. [Verify badge](https://cloud.meshery.io/user/de4901de-78e8-4404-b732-82e61cf607f2?tab=badges&badge=first-design) · [View design](https://playground.meshery.io/extension/meshmap?mode=design&design=57b6d19b-cf47-402f-bd67-5aed38dce078)
+
 ## How I Work
 
 I care about what happens after a prototype works: failure modes, edge cases, security boundaries, evaluation, auditability, maintainability and whether a system can survive real operational use.
